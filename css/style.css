@@ -1,4 +1,29 @@
+body {
+    font-family: Arial, "Times New Roman";
+}
+
 img {
     width: 400px;
     height: auto;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(200, 221, 255);
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: large;
+    text-decoration: underline;
+}
+
+li {
+    background-color: rgb(238, 238, 238);
+    list-style-position:inside;
+    border: 2px solid black;
 }
